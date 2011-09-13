@@ -73,6 +73,7 @@ namespace Hello_world_game
 
             // TODO: Add your update logic here
             // Jassågitt, ser om dette funker da! vd
+            // Mer testing!
             base.Update(gameTime);
         }
 
