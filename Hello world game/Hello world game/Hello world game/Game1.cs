@@ -83,6 +83,7 @@ namespace Hello_world_game
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
+            // Legger inn en liten kommentar
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
