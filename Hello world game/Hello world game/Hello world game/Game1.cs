@@ -71,7 +71,7 @@ namespace Hello_world_game
                 this.Exit();
 
             // TODO: Add your update logic here
-
+            // Jassågitt, ser om dette funker da!
             base.Update(gameTime);
         }
 
